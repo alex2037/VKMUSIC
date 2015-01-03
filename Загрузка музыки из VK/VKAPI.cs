@@ -10,6 +10,7 @@ namespace Загрузка_музыки_из_VK
     class VKAPI
     {   
         //Идентификатор приложения Вконтаке
+        // НенужныйКомент
         private int appId;
         string accessToken;
         
