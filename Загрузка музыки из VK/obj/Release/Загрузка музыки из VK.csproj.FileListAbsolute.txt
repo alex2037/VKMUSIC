@@ -14,3 +14,19 @@ C:\Users\Иван\Google Диск\Загрузка музыки из VK\Загр
 C:\Users\Иван\Google Диск\Загрузка музыки из VK\Загрузка музыки из VK\obj\Release\Загрузка музыки из VK.csproj.GenerateResource.Cache
 C:\Users\Иван\Google Диск\Загрузка музыки из VK\Загрузка музыки из VK\obj\Release\Загрузка музыки из VK.exe
 C:\Users\Иван\Google Диск\Загрузка музыки из VK\Загрузка музыки из VK\obj\Release\Загрузка музыки из VK.pdb
+E:\GIT\VKMUSIC\Загрузка музыки из VK\bin\Release\Загрузка музыки из VK.exe.config
+E:\GIT\VKMUSIC\Загрузка музыки из VK\obj\Release\Загрузка музыки из VK.exe
+E:\GIT\VKMUSIC\Загрузка музыки из VK\obj\Release\Загрузка музыки из VK.pdb
+E:\GIT\VKMUSIC\Загрузка музыки из VK\bin\Release\VKAPI.cs
+E:\GIT\VKMUSIC\Загрузка музыки из VK\bin\Release\Загрузка музыки из VK.exe
+E:\GIT\VKMUSIC\Загрузка музыки из VK\bin\Release\Загрузка музыки из VK.pdb
+E:\GIT\VKMUSIC\Загрузка музыки из VK\obj\Release\Загрузка музыки из VK.csprojResolveAssemblyReference.cache
+E:\GIT\VKMUSIC\Загрузка музыки из VK\obj\Release\Auth.baml
+E:\GIT\VKMUSIC\Загрузка музыки из VK\obj\Release\MainWindow.baml
+E:\GIT\VKMUSIC\Загрузка музыки из VK\obj\Release\Auth.g.cs
+E:\GIT\VKMUSIC\Загрузка музыки из VK\obj\Release\MainWindow.g.cs
+E:\GIT\VKMUSIC\Загрузка музыки из VK\obj\Release\App.g.cs
+E:\GIT\VKMUSIC\Загрузка музыки из VK\obj\Release\Загрузка музыки из VK_MarkupCompile.cache
+E:\GIT\VKMUSIC\Загрузка музыки из VK\obj\Release\Загрузка музыки из VK.g.resources
+E:\GIT\VKMUSIC\Загрузка музыки из VK\obj\Release\Загрузка_музыки_из_VK.Properties.Resources.resources
+E:\GIT\VKMUSIC\Загрузка музыки из VK\obj\Release\Загрузка музыки из VK.csproj.GenerateResource.Cache
